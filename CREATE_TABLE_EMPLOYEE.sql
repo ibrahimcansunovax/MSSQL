@@ -1,3 +1,4 @@
+USE test_db;
 CREATE TABLE Employee (
     Employee_Id INT IDENTITY(1,1) PRIMARY KEY,
     Start_Date DATE,
